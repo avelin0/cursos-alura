@@ -33,3 +33,7 @@
 
 -    Design:
         Onde a arte entra nisso tudo? O Design é importante para que nossos aplicativos tenham uma estrutura bonita e com um formato que faça sentido para celulares. Por isso, vimos os conceitos de Material (Design criado pela google) e Cupertino (Design criado pela apple).
+
+### sateless statefull
+
+### Imagens e animações
